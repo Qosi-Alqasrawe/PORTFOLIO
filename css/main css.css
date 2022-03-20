@@ -157,7 +157,7 @@ header .container .nav {
         align-items: flex-start;
         background-color: var(--main-background-color);
         width: 70%;
-        height: calc(100vh - 65px);
+        height: calc(100vh - 130px);
         position: absolute;
         top: 100%;
         right: -100%;
